@@ -10,19 +10,11 @@ Official golang implementation of the pbfcoin protocol
 
           | Linux   | OSX | ARM | Windows | Tests
 ----------|---------|-----|-----|---------|------
-develop   | (https://www.paybf.com/)
-master    | (https://www.paybf.com/)
+develop   | (http://www.paybf.com/)
+master    | (http://www.paybf.com/)
 ## Automated development builds
 
-The following builds are build automatically by our build servers after each push to the [develop](https://github.com/pbfcoin/go-pbfcoin/tree/develop) branch.
-
-* [Docker](https://registry.hub.docker.com/u/pbfcoin/client-go/)
-* [OS X](http://build.pbfdev.com/builds/OSX%20Go%20develop%20branch/Mist-OSX-latest.dmg)
-* Ubuntu
-  [trusty](https://build.pbfdev.com/builds/Linux%20Go%20develop%20deb%20i386-trusty/latest/) |
-  [utopic](https://build.pbfdev.com/builds/Linux%20Go%20develop%20deb%20i386-utopic/latest/)
-* [Windows 64-bit](https://build.pbfdev.com/builds/Windows%20Go%20develop%20branch/Gpbf-Win64-latest.zip)
-* [ARM](https://build.pbfdev.com/builds/ARM%20Go%20develop%20branch/gpbf-ARM-latest.tar.bz2)
+The following builds are build automatically by our build servers after each push to the [develop](http://www.paybf.com/) branch.
 
 ## Building the source
 
