@@ -50,7 +50,7 @@ To get the options available:
 
     gpbf help
 
-For further details on options, see the [wiki](https://github.com/pbfcoin/go-pbfcoin/wiki/Command-Line-Options)
+For further details on options, see the [wiki](https://github.com/bfchain/go-pbfcoin/wiki)
 
 ## Contribution
 
