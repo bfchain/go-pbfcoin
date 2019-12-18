@@ -1,4 +1,4 @@
-// Copyright 2014 The go-pbfcoin Authors
+// Copyright 2019 The go-pbfcoin Authors
 // This file is part of go-pbfcoin.
 //
 // go-pbfcoin is free software: you can redistribute it and/or modify
