@@ -8,7 +8,7 @@ RUN apt-get update
 RUN apt-get upgrade -q -y
 RUN apt-get dist-upgrade -q -y
 
-# Install Ethereum
+# Install pbfchain
 RUN apt-get install -q -y software-properties-common
 RUN add-apt-repository ppa:ethereum/ethereum
 RUN add-apt-repository ppa:ethereum/ethereum-dev
