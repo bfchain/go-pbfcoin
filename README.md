@@ -1,6 +1,6 @@
 ## pbfcoin Go
 
-Official golang implementation of the pbfcoin protocol
+It was modified based on Go-Ethereum. Official golang implementation of the pbfcoin protocol
 
           | Linux   | OSX | ARM | Windows | Tests
 ----------|---------|-----|-----|---------|------
@@ -43,7 +43,7 @@ Go pbfcoin comes with several wrappers/executables found in
 `rlpdump` | prints RLP structures |
 
 #### Defining the private genesis state
-ps:It was modified based on Go-Ethereum. Official Golang implementation of the pbfcoin protocol.
+
 First, you'll need to create the genesis state of your networks, which all nodes need to be
 aware of and agree upon. This consists of a small JSON file (e.g. call it `genesis.json`):
 
