@@ -1,12 +1,6 @@
 ## pbfcoin Go
 
-It was modified based on Go-Ethereum. Official golang implementation of the pbfcoin protocol
-
-          | Linux   | OSX | ARM | Windows | Tests
-----------|---------|-----|-----|---------|------
-## pbfcoin Go
-
-Official golang implementation of the pbfcoin protocol
+Go-pbfcoin was modified based on Go-Ethereum. Official Golang implementation of the pbfcoin protocol.
 
           | Linux   | OSX | ARM | Windows | Tests
 ----------|---------|-----|-----|---------|------
