@@ -1,5 +1,4 @@
-{
-    "preExpDiffIncrease" : {
+{ "preExpDiffIncrease" : {
         "parentTimestamp" : "42",
         "parentDifficulty" : "1000000",
         "currentTimestamp" : "43",
