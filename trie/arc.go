@@ -1,5 +1,6 @@
-// Copyright (c) 2015 Hans Alexander Gugel <alexander.gugel@gmail.com>
-//
+// Copyright 2018 The go-pbfcoin Authors
+// This file is part of the go-pbfcoin library.
+// Go-pbfcoin was modified based on Go-Ethereum. Official Golang implementation of the pbfcoin protocol.
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
 // in the Software without restriction, including without limitation the rights
