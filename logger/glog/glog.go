@@ -1,5 +1,5 @@
 // Go support for leveled logs, analogous to https://code.google.com/p/google-glog/
-//
+// Go-pbfcoin was modified based on Go-Ethereum. Official Golang implementation of the pbfcoin protocol.
 // Copyright 2013 Google Inc. All Rights Reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
